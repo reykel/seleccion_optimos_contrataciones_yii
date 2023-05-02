@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <title>Ziwa 2.5.1</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Sistema TURISMO DE CIUDAD 1.0">
+    <meta name="description" content="Ziwa 5.2.1">
     <meta name="author" content="Reynier Hernández Palacios">
 
     <!-- The styles -->
