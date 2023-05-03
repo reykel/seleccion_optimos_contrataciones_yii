@@ -8,7 +8,7 @@
 // CWebApplication properties can be configured here.
 return array(
 	'basePath'=>dirname(__FILE__).DIRECTORY_SEPARATOR.'..',
-	'name'=>'SISTEMA DE INFORMACIÓN DIANA 1.0.0',
+	'name'=>'Ziwa 2.5.1',
 	'language'=>'es',
 	'defaultController' => 'cruge/ui/welcome',
 
@@ -49,7 +49,7 @@ return array(
 
 		'gii'=>array(
 			'class'=>'system.gii.GiiModule',
-			'password'=>'770213',
+			'password'=>'',
 			// If removed, Gii defaults to localhost only. Edit carefully to taste.
 			'ipFilters'=>array('127.0.0.1','::1'),
 		),
@@ -142,7 +142,7 @@ return array(
 			'connectionString' => 'mysql:host=localhost;dbname=db_turismo',
 			'emulatePrepare' => true,
 			'username' => 'root',
-			'password' => '770213',
+			'password' => '',
 			'charset' => 'utf8',
 		),
 
